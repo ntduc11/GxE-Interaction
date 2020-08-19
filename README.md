@@ -1,4 +1,4 @@
-# GxE-Interaction
+# GxE-Interaction Analysis
 **GxE interaction analysis pipeline**
 * Package: metan
 * Referenes: Olivoto, T., & Lúcio, A. D. C. (2020). metan: An R package for multi‐environment trial analysis. Methods in Ecology and Evolution, 11(6), 783-789.
