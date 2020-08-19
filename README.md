@@ -7,7 +7,7 @@
 
 install.package("metan")
 
-install.package(tidyverse")
+install.package("tidyverse")
 
 * Load library 
 
